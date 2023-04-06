@@ -1,3 +1,4 @@
+#first install qrcode module in cmd, just type "pip install qrcode"
 import qrcode as qr         # import qrcode python moddule that helps to generate and save the QR
 from PIL import Image       # from PIL library import image that help us to modify or changes in the qr code 
 
